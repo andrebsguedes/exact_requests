@@ -1,0 +1,5 @@
+*~*
+data*.json
+*.pyc
+*.txt
+*.html
